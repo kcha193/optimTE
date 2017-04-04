@@ -1,0 +1,11 @@
+Package: optimTE
+Type: Package
+Title: Optimal design for Two-phase Experiments
+Version: 0.0.1
+Date: 2013-01-02
+Author: Kevin Chang and Katya Ruggiero
+Maintainer: Kevin Chang <kcha193@aucklanduni.ac.nz> 
+Description: OptimTE is capable of searching for optimal two-phase exeprimental design using a specific objective function and modified simulated annealing algorithm. 
+Depends: R (>= 2.10.0), MASS, infoDecompuTE
+License: GPL (>= 3)
+LazyLoad: yes
